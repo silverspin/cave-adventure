@@ -50,4 +50,10 @@ make_pie do
   image lake:"http://farm1.static.flickr.com/213/512496938_96d9adb238_z.jpg?zz=1"
   image guardian:"http://farm1.static.flickr.com/42/124335468_aa7b84f96e_z.jpg?zz=1"
   image pie_shop:"http://farm1.static.flickr.com/56/141332285_5fe906a825_z.jpg"
+  image atlantis:""
+  image dead_crystal:""
+  image death:"image/grim_reaper.png"
+  image victory:"http://farm3.static.flickr.com/2087/2153422313_e36f17fdfb_z.jpg"
+  image indiana_jones_ending:"http://farm4.static.flickr.com/3381/3646892206_8f8ab8ec98_o.jpg"
+  image restart:""
 end
